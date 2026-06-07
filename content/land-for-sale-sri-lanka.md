@@ -43,7 +43,6 @@ toc = true
 - Surroundings
   - 2 minutes to the highway interchange
   - Main road is at the 7km post, quick access to Dodangoda town and Kalutara. Nagoda hospital is close by.
-- No brokers
 
 ## Transaction Terms
 
