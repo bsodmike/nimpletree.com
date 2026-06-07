@@ -17,9 +17,13 @@ h6 { @apply text-[.25rem] md:text-xs }
 h1, h2, h3, h4, h5, h6 {
   @apply mt-10 mb-2;
   @apply before:content-['#'] before:mr-2 before:text-accent;
+  @apply font-title;
 }
 
-p { @apply my-4 }
+p { 
+  @apply my-4;
+  @apply font-serif;
+}
 
 strong { @apply text-terciary }
 

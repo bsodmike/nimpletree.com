@@ -7,29 +7,30 @@ module.exports = {
     extend: {
       colors: {
         // theme: nord
-        // https://www.nordtheme.com/docs/colors-and-palettes
-
-        bg: "#212830",
+        // bg: "#212830",
+        bg: "#f4f3ef",
         "bg-light": "#3b4252",
 
         // nord: Snow storm
         // text: "#e5e9f0",
-        text: "#eceff4",
+        text: "#000000",
 
-        accent: "#8fbcbb", // primary
+        accent: "#db2219", // primary
         "accent-text": "#2e3440",
         border: "#4c566a",
-        link: "#88c0d0", // primary-1
+        link: "#ae1912", // primary-1
 
         // nord: frost
-        primary: "#8fbcbb",
+        primary: "#db2219",
         "primary-2": "#88c0d0",
         secondary: "#81a1c1",
         terciary: "#5e81ac",
       },
       fontFamily: {
-        sans: ['"MPLUS1"', ...defaultTheme.fontFamily.sans],
-        mono: ['"Hack-Regular"', ...defaultTheme.fontFamily.sans],
+        // sans: ['"MPLUS1"', ...defaultTheme.fontFamily.sans],
+        title: ['"Inter"', ...defaultTheme.fontFamily.sans],
+        mono: ['"Inter"', ...defaultTheme.fontFamily.sans],
+        serif: ['"SourceSerif4"'],
       },
     },
   },
