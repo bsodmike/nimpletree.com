@@ -1,23 +1,28 @@
 {% import "_icons.html" as icons %}
 
-<!DOCTYPE html>
+<!doctype html>
 <html lang="en">
+  <head>
+    {% include "head.html" %}
+  </head>
+  <!-- Google tag (gtag.js) -->
+  <script
+    async
+    src="https://www.googletagmanager.com/gtag/js?id=G-PSY9EJZ4J9"
+  ></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag() {
+      dataLayer.push(arguments);
+    }
+    gtag("js", new Date());
 
-<head>
-  {% include "head.html" %}
-</head>
+    gtag("config", "G-PSY9EJZ4J9");
+  </script>
 
-<body class="bg-bg text-text mx-6 lg:max-w-5xl lg:mx-auto">
-  <header>
-    {% include "header.html" %}
-  </header>
-  <main>
-    {% block content %}
-    {% endblock content %}
-  </main>
-  <footer>
-    {% include "footer.html" %}
-  </footer>
-</body>
-
+  <body class="bg-bg text-text mx-6 lg:max-w-5xl lg:mx-auto">
+    <header>{% include "header.html" %}</header>
+    <main>{% block content %} {% endblock content %}</main>
+    <footer>{% include "footer.html" %}</footer>
+  </body>
 </html>
