@@ -12,7 +12,16 @@
 </p>
 
 <p class="text-xl">
-  See full <a href="/land-for-sale-sri-lanka">property details & photos.</a>
+  See full
+  <a
+    href="/land-for-sale-sri-lanka"
+    onclick="
+      gtag('event', 'property_details_click', {
+        link_url: this.href,
+      })
+    "
+    >property details & photos.</a
+  >
 </p>
 
 <h2>Location</h2>
