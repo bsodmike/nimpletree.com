@@ -1,0 +1,15 @@
+{% extends "base.html" %} {% block content %}
+<h1>Welcome</h1>
+
+<h2>Recent Articles</h2>
+{% set blog = get_section(path="blog/_index.md") %} {% set pages = blog.pages %}
+{% if pages %}
+<ul>
+  {% for page in pages %}
+  <li><a href="{{ page.permalink | safe }}">{{ page.title }}</a></li>
+  {% endfor %}
+</ul>
+{% else %} No article yet {% endif %}
+
+<br />
+{% endblock content %}
