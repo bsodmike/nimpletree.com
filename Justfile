@@ -17,7 +17,6 @@ build:
 
     mkdir -p "./build/www"
     cp -R public "./build/www"
-    cp -R resources "./build/www/public"
     cp ./static/style.css "./build/www/public/"
 
     ls -la "./build/www/public"
