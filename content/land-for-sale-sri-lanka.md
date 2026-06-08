@@ -8,7 +8,7 @@ toc = true
 
 ## Contact
 
-- Call 0777686569 or WhatsApp
+- Call 0777686569 (WhatsApp) or email <a href="mailto:michael@crustyengineer.com">michael@crustyengineer.com</a>
 - Strictly no "brokers".
 - Established real-estate agents may be considered subject to screening.
 
@@ -27,22 +27,22 @@ toc = true
   - Towards North-East and East, ~100 perches are flat elevated land, rest is an undulating incline; free of flooding — with Cinnamon crop.
 - Land is mixed-use
   - Cinnamon crop.
-  - 2x “Villa” structures on the land, and one garage. Main round villa built in ~1975. Each villa has toilets.
+  - 2x “Villa” structures on the land, and one garage. Main round villa was built circa 1975.
   - Outdoor toilet 🚽 (working)
-  - Water pump ✅ + Water tanks (pump house).
-  - Water supply from the main road (connected) + 1x deep Well to access water ✅
+  - Water pump + Water tanks (pump house).
+  - Water supply from the main road (connected) + 1x deep Well to access water
 - Legal documents
-  - Fully clear title deeds, over 80-years and family owned (free-hold / “Sinakkara" (සින්නක්කරය)) ✅
-  - Title report ✅
-  - Survey plan ✅ by licensed survey plan.
+  - Fully clear title deeds, over 80-years and family owned (free-hold / “Sinakkara" (සින්නක්කරය))
+  - Title report
+  - Survey plan by licensed survey plan.
   - Deed/Title report copies may be viewed via our lawyer.
 - Road frontage to Liyanagoda Road is over 40ft.
 - Utilities:
-  - Water supply connected ✅
-  - CEB electricity connected ✅
+  - Water supply connected
+  - CEB electricity connected (single-phase). 3-phase may be obtained.
 - Surroundings
   - 2 minutes to the highway interchange
-  - Main road is at the 7km post, quick access to Dodangoda town and Kalutara. Nagoda hospital is close by.
+  - Main road is at the `7 km` post, quick access to Dodangoda town and Kalutara. Nagoda hospital is close by.
 
 ## Transaction Terms
 
@@ -53,6 +53,29 @@ toc = true
 <br/>
 
 ## Photos
+
+### Inside
+
+Structures located about 100-150 ft away from the Eastern boundary, which is the Southern Highway itself. The Eastern part of the land (North to South) is at the highest elevation.
+
+<img class="w-[1024px] h-auto block" src="/images/nimpletree/workmen_structures.JPG" />
+
+This is a private road connecting the main gate running West to East along the northern most boundary. We are looking at it from the Eastern side.
+
+<div class="flex flex-col md:flex-row">
+  <div class="flex-1 flex justify-center items-center">
+    <img class="w-[500px] h-auto block" src="/images/nimpletree/inside_main_gate.JPG" />
+  </div>
+
+  <div class="flex-1 flex justify-center items-center">
+    <img
+      class="w-[500px] h-auto block"
+      src="/images/nimpletree/private_road.JPG"
+    />
+  </div>
+</div>
+
+### Outside, at the main gate
 
 Looking towards the property entrance from the small bridge across the "ela" (stream).
 
