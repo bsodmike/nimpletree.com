@@ -63,7 +63,7 @@ Structures located about 100-150 ft away from the Eastern boundary, which is the
 This is a private road connecting the main gate running West to East along the northern most boundary. We are looking at it from the Eastern side.
 
 <div class="flex flex-col md:flex-row">
-  <div class="flex-1 flex justify-center items-center">
+  <div class="flex-1 flex justify-center items-center mb-5">
     <img class="w-[500px] h-auto block" src="/images/nimpletree/inside_main_gate.JPG" />
   </div>
 
